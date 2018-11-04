@@ -1,0 +1,8 @@
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.6\PlayerClubClassLibrary.deps.json
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.6\PlayerClubClassLibrary.dll
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.6\PlayerClubClassLibrary.pdb
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.6\PlayerClubClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.6\PlayerClubClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.6\PlayerClubClassLibrary.AssemblyInfo.cs
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.6\PlayerClubClassLibrary.dll
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.6\PlayerClubClassLibrary.pdb

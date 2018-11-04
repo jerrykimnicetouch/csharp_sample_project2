@@ -1,0 +1,9 @@
+TEAM;549286;www;file;
+Warrier;Tom McCartney888;1993;Auckland;
+Hurricanes;Wayne Ensor;1992;East Coast;
+Blues;Tom Coventry;1985;North Harbour;
+Eagle;John Adams;2017;Wellington;
+Thunder;Jim Morgan;1930;Hamilton;
+Falcon;John Borris;1980;Wellington;
+Dove;Ian Thonton;1970;Auckland;
+

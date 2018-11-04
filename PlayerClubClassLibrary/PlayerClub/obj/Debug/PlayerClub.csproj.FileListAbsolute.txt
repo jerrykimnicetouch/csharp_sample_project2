@@ -1,0 +1,51 @@
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClub.exe.config
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClub.exe
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClub.pdb
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClubClassLibrary.dll
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClubClassLibrary.pdb
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csprojResolveAssemblyReference.cache
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.PlayerClubForm.resources
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.Properties.Resources.resources
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csproj.GenerateResource.cache
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csproj.CoreCompileInputs.cache
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csproj.CopyComplete
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.exe
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.pdb
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClub.exe.config
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClub.exe
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClub.pdb
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClubClassLibrary.dll
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClubClassLibrary.pdb
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.PlayerClubForm.resources
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.Properties.Resources.resources
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csproj.GenerateResource.Cache
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csproj.CoreCompileInputs.cache
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.exe
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.pdb
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClub.exe.config
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClub.exe
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClub.pdb
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClubClassLibrary.dll
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClubClassLibrary.pdb
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csprojResolveAssemblyReference.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.PlayerClubForm.resources
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.Properties.Resources.resources
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csproj.GenerateResource.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csproj.CoreCompileInputs.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csproj.CopyComplete
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.exe
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.pdb
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClub.exe.config
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClub.exe
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClub.pdb
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClubClassLibrary.dll
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\bin\Debug\PlayerClubClassLibrary.pdb
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csprojResolveAssemblyReference.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.PlayerClubForm.resources
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.Properties.Resources.resources
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csproj.GenerateResource.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csproj.CoreCompileInputs.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.csproj.CopyComplete
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.exe
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClub\obj\Debug\PlayerClub.pdb

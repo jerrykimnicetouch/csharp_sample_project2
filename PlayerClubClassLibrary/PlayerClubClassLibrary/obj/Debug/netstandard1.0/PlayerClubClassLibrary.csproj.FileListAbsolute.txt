@@ -1,0 +1,34 @@
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.0\PlayerClubClassLibrary.deps.json
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.0\PlayerClubClassLibrary.dll
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.0\PlayerClubClassLibrary.pdb
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.AssemblyInfo.cs
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.dll
+C:\Users\wsl nly\source\repos\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.pdb
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.0\PlayerClubClassLibrary.deps.json
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.0\PlayerClubClassLibrary.dll
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.0\PlayerClubClassLibrary.pdb
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.AssemblyInfoInputs.cache
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.AssemblyInfo.cs
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.dll
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.pdb
+C:\Users\A\Documents\Massey\158.212\Assignment 3\Assignment_3_Updated - Copy\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.0\PlayerClubClassLibrary.deps.json
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.0\PlayerClubClassLibrary.dll
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.0\PlayerClubClassLibrary.pdb
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.AssemblyInfoInputs.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.AssemblyInfo.cs
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.dll
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Updated\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.pdb
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.0\PlayerClubClassLibrary.deps.json
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.0\PlayerClubClassLibrary.dll
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClubClassLibrary\bin\Debug\netstandard1.0\PlayerClubClassLibrary.pdb
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.AssemblyInfoInputs.cache
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.AssemblyInfo.cs
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.dll
+C:\Users\wsl nly\Desktop\lesson\Assignment_3_Final\PlayerClubClassLibrary\PlayerClubClassLibrary\obj\Debug\netstandard1.0\PlayerClubClassLibrary.pdb

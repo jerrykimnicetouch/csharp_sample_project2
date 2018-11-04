@@ -1,0 +1,8 @@
+Player;111111;www;file;file;file;file;
+1;Richard McCaw;31/12/1980;167;107;Oamaru;Eagle;
+2;Sean Fitzpatrick;4/6/1963;183;105;Auckland;Hurricanes;
+3;Kieran Read;26/10/1985;193;111;Papakura;Warrier;
+4;Mick Tane;30/11/1989;190;90;Manukau;Manchester;
+5;Hor Park;3/5/1988;180;80;Orewa;Blues;
+6;Tim Josh;8/10/2002;199;190;Korea;Hurricanes;
+
